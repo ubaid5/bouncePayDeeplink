@@ -3,9 +3,9 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.example.yourapp",
+      "package_name": "com.pay.bounce",
       "sha256_cert_fingerprints": [
-        "YOUR_APP_SHA256_CERTIFICATE_FINGERPRINT"
+        "23:08:7D:1D:6A:A1:86:7E:44:E6:11:6B:6E:BA:36:1E:6E:E3:26:F7:6B:31:B2:A0:A7:15:B8:CA:39:1A:8D:32"
       ]
     }
   }
