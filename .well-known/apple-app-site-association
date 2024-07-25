@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "WTLD6KKNW7.com.pay.bounce",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
